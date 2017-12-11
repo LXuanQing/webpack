@@ -1,0 +1,9 @@
+{
+  "name": "webpack打包",
+  "version": "",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.17",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0"
+  }
+}
